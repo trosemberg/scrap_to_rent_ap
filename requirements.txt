@@ -1,0 +1,13 @@
+wheel
+numpy
+pandas
+jupyter
+jupyterlab
+seaborn
+matplotlib
+scikit-learn
+regex
+xlrd
+pylint
+mysql-connector-python
+
